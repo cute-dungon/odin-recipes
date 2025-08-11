@@ -1,0 +1,29 @@
+html {
+    width: 100vw;
+    height: 100vh;
+    
+    align-content: center;
+    justify-items: center;
+
+    font-family: monospace;
+}
+
+body {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+/* Margin Stuff */
+
+body {
+    padding: 1em;
+}
+
+
+/* Style Stuff */
+body {
+    border: 1px black solid;
+}
